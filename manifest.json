@@ -1,0 +1,14 @@
+{
+  "name": "Trackside — 5K to 10K",
+  "short_name": "Trackside",
+  "description": "Structured run/walk training from couch to 5K, then bridging to 10K, with spoken coach cues.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10161A",
+  "theme_color": "#10161A",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

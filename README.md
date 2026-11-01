@@ -32,8 +32,8 @@ continuously (a 5K) — this is the progression from there.
   switch devices, progress won't carry over — there's no server, by
   design, since this is for personal use only.
 - This is my own reasonable 10K progression rather than an NHS
-  program — NHS's own "Bridge to 10K" exists as a separate podcast
-  series if you'd rather follow that instead.
+  program - NHS's own "Bridge to 10K" exists as a separate podcast
+  series.
 
 ## File structure
 
@@ -48,7 +48,3 @@ audio/silence.wav  Near-silent keep-alive track (see "Running with the screen lo
 icons/icon.svg     App icon
 ```
 
-Feel free to edit `js/program.js` directly if you want to adjust pacing,
-add a 4th weekly run, or extend the plan further past 10K — each
-session is just a list of `warmup` / `run` / `walk` / `cooldown`
-segments with a duration in seconds.
